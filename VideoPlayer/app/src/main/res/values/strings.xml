@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">VideoPlayer</string>
+    <string name="link1">rtmp://184.72.239.149/vod/BigBuckBunny_115k.mov</string>
+    <string name="link2">https://tubenow.bytecollar.com/uploads/videos/831bc78514eb225c98e5f8a232e2c59192658317.mp4</string>
+    <string name="link3">http://streamtube.streamhash.com/uploads/videos/5d0aa0b4f0c83b6969b995f25af6d490e2b9ba4e.mp4</string>
+
+</resources>
