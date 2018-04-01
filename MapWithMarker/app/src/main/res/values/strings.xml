@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MapWithMarker</string>
+    <string name="search_btn">Search</string>
+    <string name="view_btn">View</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
